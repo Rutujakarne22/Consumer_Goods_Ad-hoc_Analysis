@@ -1,6 +1,6 @@
 # Consumer_Goods_Ad-hoc_Analysis
 
-# Consumer_Goods_Ad-hoc_Analysis
+
 
 ## Company Overview
  AtliQ Hardware (Imaginary Company) is one of the leading and rapidly expanding global hardware manufacturing company, specializing in a diverse range of products, more in various variants like standard, plus, and premium
